@@ -1,5 +1,5 @@
 # 内容：Adobe
-# 数量：34条
+# 数量：35条
 DOMAIN-KEYWORD,adobe
 DOMAIN,adbemdigitalmediarebootprod2.112.2o7.net
 DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
@@ -34,3 +34,4 @@ DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,verisign.com
 DOMAIN-SUFFIX,worldsecuresystems.com
+DOMAIN-SUFFIX,adobe.io
